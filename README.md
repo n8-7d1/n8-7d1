@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on something cool
-- 🙋‍♂️ I'm currently looking for more cool things to work on
+- 🙋‍♂️ I'm currently looking for more cool things
 <!--
 - 
 - 🌱 I’m currently learning ...
