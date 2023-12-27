@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on something cool
 - 🙋‍♂️ I'm currently looking for more cool things- 
 - 🌱 I’m currently learning how to cook and code
-- ⚡ Fun fact: I think that I need more sleep.
+- ⚡ Fun fact: I think that I am getting frustrated.
 <!--
 - 
 - 🌱 I’m currently learning ...
