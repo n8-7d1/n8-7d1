@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on something cool
 - 🙋‍♂️ I'm currently looking for more cool things- 
 - 🌱 I’m currently learning how to cook and code
-- ⚡ Fun fact: I bashed opit a 100 mile bike ride with 11k of climbing today.
+- ⚡ Fun fact: I have parents coming in today!
 
 <!--
 - 
