@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on something cool
 - 🙋‍♂️ I'm currently looking for more cool things- 
 - 🌱 I’m currently learning how to cook and code
-- ⚡ Fun fact: I am started the program and here goes everything.  Still going even after a good ride.
+- ⚡ Fun fact: Cruising in the bootcamp.
 
   
 <!--
