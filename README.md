@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on something cool
 - 🙋‍♂️ I'm currently looking for more cool things- 
 - 🌱 I’m currently learning how to cook and code
-- ⚡ Fun fact: It was 70 deg today, Jan 28
+- ⚡ Fun fact: Lots of extra bs for a monday.
 
   
 <!--
