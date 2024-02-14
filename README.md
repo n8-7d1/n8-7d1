@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on something cool
 - 🙋‍♂️ I'm currently looking for more cool things- 
 - 🌱 I’m currently learning how to cook and code
-- ⚡ Fun fact: Still unable to load maven project to nexus repo, but you know I got it going later in the day.
+- ⚡ Fun fact: Making much better progress now.
 
   
 <!--
